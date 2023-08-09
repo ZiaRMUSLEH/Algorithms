@@ -1,4 +1,4 @@
-package Algorithms.insertionSort;
+package Algorithms_RPT.insertionSort;
 
 import java.util.Arrays;
 

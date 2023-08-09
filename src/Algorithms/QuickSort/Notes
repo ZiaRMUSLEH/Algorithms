@@ -1,0 +1,11 @@
+
+The Logic:
+-> We'll select a pivot value from the array. Move the smaller values to the left, move the bigger numbers to the right.
+And we'll keep doing that in a recursive way, till we are done.
+
+
+Time Complexity: O( nlogn )
+
+Memory Usage: O(n)
+
+

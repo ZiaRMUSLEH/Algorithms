@@ -1,3 +1,0 @@
-O(n^2) --> Slower than Selection and Insertion Sort in larger datasets
-Memory Usage: O(1)
---> Bubble Sort is better in small arrays, but worse in larger arrays.
